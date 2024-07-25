@@ -29,10 +29,6 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Manila
-          plugin_16personalities: yes
-          plugin_16personalities_scores: yes
-          plugin_16personalities_sections: personality
-          plugin_16personalities_url: https://www.16personalities.com/profiles/b3c338061889f
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_ignored: octonaut
